@@ -1,0 +1,73 @@
+{
+  "rolling_stats": [
+    {
+      "timestamp": "2025-11-08T20:24:05.454380",
+      "success_rate": 1.0,
+      "avg_confidence": 0.6,
+      "avg_response_time": 7.61658661365509,
+      "sample_size": 10
+    }
+  ],
+  "queries": [
+    {
+      "timestamp": "2025-11-08T19:09:45.612582",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 15.853922605514526
+    },
+    {
+      "timestamp": "2025-11-08T19:10:38.486557",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 16.788644790649414
+    },
+    {
+      "timestamp": "2025-11-08T19:19:44.491991",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 0.005156755447387695
+    },
+    {
+      "timestamp": "2025-11-08T19:28:46.544790",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 6.222724914550781e-05
+    },
+    {
+      "timestamp": "2025-11-08T19:29:51.790318",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 0.00012350082397460938
+    },
+    {
+      "timestamp": "2025-11-08T19:35:05.287012",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 11.960801362991333
+    },
+    {
+      "timestamp": "2025-11-08T20:06:56.710873",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 13.7408447265625
+    },
+    {
+      "timestamp": "2025-11-08T20:07:45.164000",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 13.288734197616577
+    },
+    {
+      "timestamp": "2025-11-08T20:08:17.228368",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 4.5232226848602295
+    },
+    {
+      "timestamp": "2025-11-08T20:24:05.454342",
+      "success": true,
+      "confidence": 0.6,
+      "response_time": 0.00435328483581543
+    }
+  ]
+}
